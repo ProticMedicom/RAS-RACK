@@ -103,6 +103,17 @@ Zprovozneni GUI pomoci knihovny	#include <gtkmm.h>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Commit na github pres VS Code
+
+git add.
+
+git commit -m "Message"
+
+git push origin main
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Nastaveni projektu pro remote debug na RPi pres Win11 PC
 
 	- Pouziti knihoven pro tvorbu GUI GTKmm zpusobuje problemy
